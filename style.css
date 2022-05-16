@@ -1,10 +1,11 @@
 body {
   font-family: sans-serif;
   color: #172b4d;
-  background-color: #0279bf;
+  background-color: #027abfc9;
   display: flex;
   align-items: start;
   font-family: 'Macondo', cursive;
+  background-image: url('https://webstockreview.net/images/coach-clipart-greyhound-bus-18.png');
 }
 
 div {
@@ -41,7 +42,7 @@ div {
 }
 
 .card {
-  background: white;
+  background: rgb(147, 254, 213);
   border-bottom: 1px solid rgb(227, 255, 126);
 }
 
