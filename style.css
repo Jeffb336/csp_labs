@@ -4,6 +4,7 @@ body {
   background-color: #0279bf;
   display: flex;
   align-items: start;
+  font-family: 'Macondo', cursive;
 }
 
 div {
@@ -41,7 +42,7 @@ div {
 
 .card {
   background: white;
-  border-bottom: 1px solid #aaa;
+  border-bottom: 1px solid rgb(227, 255, 126);
 }
 
 .list {
@@ -49,7 +50,7 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: #dfe1e6;
+  background: #e2e6df;
 }
 
 
@@ -57,7 +58,7 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: rgba(0,0,0,.12);
+  background: rgba(220, 213, 11, 0.842);
   color: hsla(0,0%,100%,.8);
 }
 
@@ -78,7 +79,7 @@ div {
 }
 
 .add-card:hover {
-  background-color: rgba(9,30,66,.13);
+  background-color: rgba(19, 222, 36, 0.734);
 }
 
 .del {
